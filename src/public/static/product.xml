@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+    <item>
+        <sku>1</sku>
+        <name>Ждун обычный</name>
+        <image>/static/i/zhdun.jpg</image>
+        <price>42.12</price>
+    </item>
+    <item>
+        <sku>2</sku>
+        <name>Ждун с персиками</name>
+        <image>/static/i/jdun_s_persikami.jpg</image>
+        <price>44.95</price>
+    </item>
+    <item>
+        <sku>3</sku>
+        <name>Ждун жертва</name>
+        <image>/static/i/kill_zhdun.png</image>
+        <price>44.27</price>
+    </item>
+    <item>
+        <sku>4</sku>
+        <name>Джуконда</name>
+        <image>/static/i/jdukonda.jpg</image>
+        <price>125.05</price>
+    </item>
+</items>
